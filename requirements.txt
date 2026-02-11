@@ -1,0 +1,5 @@
+streamlit
+wikipedia-api
+google-genai
+python-dotenv
+pyvis
